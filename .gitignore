@@ -1,0 +1,69 @@
+# Visual Studio
+.vscode/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Mm][Dd]64/
+[Aa][Rr][Mm]/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]mp/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.g.i.cs
+*.g.cs
+Generated_Code/
+
+# Windows files
+*.db
+*.idb
+*.pdb
+
+# Rider
+.idea/
+.idea.*
+*.sln.iml
+
+# Custom
+*.sln
+log.json
+Test.cs
